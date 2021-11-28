@@ -1,7 +1,7 @@
 EAS cli build bug demo
 ===
 
-With **EAS build** on android when press "back" button and open app again quickly will be visible splash (loading) screen, but on **classic expo build** there is no splash screen on app reopening (apps are not really closed in both cases).
+With **EAS build** on android when press "back" button and open app again **quickly will be visible splash (loading) screen**, but on **classic expo build** there is **no splash screen on app reopening** (apps are not really closed in both cases).
 
 Envs
 ---
